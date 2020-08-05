@@ -16,3 +16,4 @@ $ ./bin/test-ts
 ### Testing
 
 `make test`
+s
