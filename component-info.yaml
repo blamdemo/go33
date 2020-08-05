@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-ts
+  description: asdsad
+  annotations: 
+    github.com/project-slug: blamdemo/go33
+    backstage.io/github-actions-id: blamdemo/go33
+spec:
+  type: service
+  lifecycle: experimental
+  owner: blamdemo/go34
